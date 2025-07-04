@@ -1,5 +1,3 @@
-# jahnavi-dev
-
 # 👋 Hi, I'm Jahnavi
 
 💻 React Native | Flutter | Node.js (Learning)  
